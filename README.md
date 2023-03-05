@@ -1,4 +1,8 @@
-### Hi there 👋
+<!-- <b><h2>Hi there 👋</h2></b> -->
+<h2><b>Michele Golino</b></h2>
+<h3>
+Role: Software Engineer 💻
+</h3>
 
 <!--
 **micheleGolino/micheleGolino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
