@@ -1,24 +1,22 @@
 # Benvenuto sul mio profilo Github!
 
-Ciao, sono Michele, uno sviluppatore appassionato di tecnologie web e mobile. Questo è il mio profilo Github, dove condivido i miei progetti open source, le mie librerie e le mie esperienze di programmazione.
+👋 Ciao, sono Michele! Un ragazzo appassionato di tecnologia e di tutto ciò che riguarda lo sviluppo software e l'ambito tech in generale.
 
-Chi sono
-Sono uno sviluppatore con 4 anni di esperienza, specializzato in Software Engineering, ma ho anche lavorato su molti altri progetti e tecnologie. Sono appassionato di programmazione e mi piace creare applicazioni che siano semplici, eleganti e funzionali.
+💻Ho iniziato la mia carriera come sviluppatore Full Stack circa 4 anni fa e da allora ho avuto l'opportunità di
+lavorare su diversi progetti in ambito B2B/B2C, con una forte attenzione alle tecnologie di backend. 
 
-# Cosa troverai qui
-Nel mio profilo Github troverai una varietà di progetti open source, che includono:
+🏢 Attualmente, sono impiegato a tempo pieno come Software Engineer e il mio lavoro consiste nello sviluppare e
+manutenere software per tutta la durata del loro ciclo di vita.
 
-...
+📖 Attualmente, sto completando gli studi in Ingegneria Informatica e dell’Automazione, ciò mi ha permesso una solida base di 
+principi informatici e mi ha permesso di affinare ulteriormente le mie competenze nello sviluppo software.
 
-Sono sempre alla ricerca di nuove sfide e collaborazioni, quindi non esitare a contattarmi se vuoi collaborare su un progetto.
+Sono sempre alla ricerca di nuove sfide e collaborazioni o per una conversazione o per rispondere alle tue domande, quindi non esitare a contattarmi se vuoi collaborare su un progetto.
 
 # Come contattarmi
-Puoi contattarmi tramite:
+Puoi contattarmi tramite i contatti disponibili sotto all'immagine di profilo, oppure per
 
-michelegolino94@gmail.com
+✉️ Email: michelegolino94@gmail.com
 
-https://www.linkedin.com/in/michelegolino1994/
-
-Sono sempre disponibile per una conversazione o per rispondere alle tue domande, quindi non esitare a contattarmi.
 
 Grazie per aver visitato il mio profilo Github!
