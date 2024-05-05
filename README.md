@@ -1,15 +1,14 @@
 # Benvenuto sul mio profilo Github!
 
-👋 Ciao, sono Michele! Un ragazzo appassionato di tecnologia e di tutto ciò che riguarda lo sviluppo software e l'ambito tech in generale.
+👋 Ciao, sono Michele! Sono un tech enthusiast con una passione per lo sviluppo software, l'innovazione e le nuove tecnologie.
 
-💻Ho iniziato la mia carriera come sviluppatore Full Stack circa 4 anni fa e da allora ho avuto l'opportunità di
-lavorare su diversi progetti in ambito B2B/B2C, con una forte attenzione alle tecnologie di backend. 
+💻 Carriera Professionale: Ho messo piede nel settore dello sviluppo software 4 anni fa come sviluppatore Full Stack. Da quel momento, ho lavorato su una gamma diversificata di progetti B2B e B2C, con una predilezione per le soluzioni di backend.
 
-🏢 Attualmente, sono impiegato a tempo pieno come Software Engineer e il mio lavoro consiste nello sviluppare e
-manutenere software per tutta la durata del loro ciclo di vita.
+🛠️ Interessi Tecnologici: Sono particolarmente interessato allo sviluppo di microservizi e dall'automazione dei processi. Mi piace utilizzare tecnologie all'avanguardia ed innovative per rendere tutto più efficiente e scalabile.
 
-📖 Attualmente, sto completando gli studi in Ingegneria Informatica e dell’Automazione, ciò mi ha permesso una solida base di 
-principi informatici e mi ha permesso di affinare ulteriormente le mie competenze nello sviluppo software.
+🏢 Ruolo Attuale: Sono attualmente un Software Engineer a tempo pieno, con responsabilità che vanno dalla progettazione alla manutenzione del software attraverso tutto il suo ciclo di vita.
+
+🎓 Formazione: Ho completato il mio percorso accademico in Ingegneria Informatica e dell'Automazione. Questo mi ha fornito una solida base teorica e pratiche avanzate, permettendomi di approfondire le mie competenze tecniche e di rimanere sempre aggiornato sulle ultime evoluzioni del settore.
 
 Sono sempre alla ricerca di nuove sfide e collaborazioni o per una conversazione o per rispondere alle tue domande, quindi non esitare a contattarmi se vuoi collaborare su un progetto.
 
