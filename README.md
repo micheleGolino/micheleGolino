@@ -2,16 +2,21 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=micheleGolino&show_icons=true&theme=transparent&include_all_commits=1" />
 	
-👋 Ciao, sono Michele! Sono un tech enthusiast con una passione per lo sviluppo software, l'innovazione e le nuove tecnologie.
+👋 Ciao, sono Michele!
 
-💻 Ho messo piede nel settore dello sviluppo software circa 6 anni fa come sviluppatore Full Stack. Da quel momento, ho lavorato su una gamma diversificata di progetti B2B e B2C, con una predilezione per le soluzioni di backend.
+Sono un Software Engineer con 6 anni di esperienza nello sviluppo BackEnd, specializzato nella creazione di sistemi Java ad alte prestazioni e applicazioni web interattive in Python. La mia passione per l’innovazione e l’adozione delle migliori pratiche, come il Clean Code, mi permette di sviluppare soluzioni efficienti e manutenibili.
 
-🛠️ Sono particolarmente interessato allo sviluppo di microservizi e dall'automazione dei processi. Mi piace utilizzare tecnologie all'avanguardia ed innovative per rendere tutto più efficiente e scalabile.
+💻 Specialista BackEnd
+Ho iniziato la mia carriera come sviluppatore Full Stack, ma ho focalizzato la mia expertise sulla progettazione di microservizi. Attualmente, mi concentro su Java utilizzando il framework Quarkus, che mi consente di costruire sistemi robusti, leggeri e facilmente aggiornabili. Per le interfacce web, utilizzo Python e Streamlit, trasformando dati complessi in dashboard intuitive e reattive.
 
-🏢 Svolgo attualmente il ruolo di Software Engineer a tempo pieno, con responsabilità che vanno dalla progettazione alla manutenzione del software attraverso tutto il suo ciclo di vita.
+🛠️ Tecnologie e Automazione
+Credo nell’automazione intelligente e nella semplificazione dei processi lavorativi. Progetto soluzioni end-to-end integrando strumenti moderni, riducendo i tempi di sviluppo e migliorando l’esperienza utente. Ogni progetto che realizzo combina precisione tecnica con risultati tangibili.
 
-🎓 Ho completato il mio percorso accademico in Ingegneria Informatica e dell'Automazione. Questo mi ha fornito una solida base teorica e pratiche avanzate, permettendomi di approfondire le mie competenze tecniche e di rimanere sempre aggiornato sulle ultime evoluzioni del settore.
-Sono sempre alla ricerca di nuove sfide e collaborazioni o per una conversazione o per rispondere alle tue domande, quindi non esitare a contattarmi se vuoi collaborare su un progetto.
+🏢 Esperienza Professionale
+Gestisco progetti B2B e B2C dall’ideazione alla manutenzione, collaborando con team multidisciplinari per garantire che ogni componente software sia allineata con gli obiettivi aziendali e facilmente gestibile nel tempo.
+
+🎓 Formazione e Aggiornamento
+Ho conseguito una laurea in Ingegneria Informatica e dell’Automazione, applicando un approccio concreto a scenari reali. Inoltre, ho frequentato la Apple Developer Academy, collaborando con ingegneri esperti di Apple per lo sviluppo di applicazioni iOS.
 
 # Come contattarmi
 Puoi contattarmi tramite i contatti disponibili sotto all'immagine di profilo, oppure via <a href="mailto:michelegolino94@gmail.com">✉️ cliccando su questo link</a>
