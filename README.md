@@ -1,6 +1,6 @@
 # Benvenuto sul mio profilo Github!
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=micheleGolino&show_icons=true&theme=transparent&include_all_commits=1" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=micheleGolino&show_icons=true&theme=blueberry&include_all_commits=1" />
 	
 👋 Ciao, sono Michele!
 <br>
