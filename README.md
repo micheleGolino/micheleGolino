@@ -2,7 +2,7 @@
 # Hi there! 👋 I'm Michele Golino
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=micheleGolino&show_icons=true&theme=blueberry&include_all_commits=1" />
 
-I'm a Software Engineer with over 6 years of experience in software development, primarily focused on backend engineering. I design and build scalable, maintainable, and high-performance microservices using Java and modern cloud-native technologies.
+I'm a Software Engineer with over 7 years of experience in software development, primarily focused on backend engineering. I design and build scalable, maintainable, and high-performance microservices using Java and modern cloud-native technologies.
 
 I enjoy solving complex problems through clean architecture, well-designed APIs, and automation. My goal is to build software that is reliable today and easy to evolve tomorrow.
 
